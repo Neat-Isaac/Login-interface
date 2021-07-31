@@ -29,7 +29,7 @@ __It doesn't need you to program the program to judge the correctness of ID and 
 
 In addition,there are some preset ID and passwords in this interface,which can be used directly.
 
-The file that stores the user ID and password is `data.neat`_（Don't ask me why am I set the file suffix to `.neat`,look at my name!）_
+The file that stores the user ID and password is `data.neat`_（Don't ask me why I set the file suffix to `.neat`,look at my name!）_
 
 
 
